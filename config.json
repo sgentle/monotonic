@@ -1,0 +1,15 @@
+{
+  "influx": {
+    "hosts": [
+      {
+        "host": "localhost",
+        "port": 8086,
+        "protocol": "http"
+      }
+    ],
+    "database": "medb"
+  },
+  "couch": {
+    "url": "http://localhost:5984/samgentle"
+  }
+}

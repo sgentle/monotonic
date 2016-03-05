@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "influx": "^4.1.0",
+    "nano": "^6.2.0"
+  }
+}
